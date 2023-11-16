@@ -1,0 +1,8 @@
+{
+  "overrides": [
+    {
+      "extends": ["standard-with-typescript", "prettier"],
+      "files": ["./src/**/*.{ts}"]
+    }
+  ]
+}
